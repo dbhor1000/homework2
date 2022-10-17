@@ -24,9 +24,9 @@ public class Main {
         var dimCat = cat - 1.6;
         var dimPaper = paper - 7639;
 
-        System.out.println("Diminished dog:" + dimDog);
-        System.out.println("Diminished cat:" + dimCat);
-        System.out.println("Diminished paper:" + dimPaper);
+        System.out.println("Diminished dog: " + dimDog);
+        System.out.println("Diminished cat: " + dimCat);
+        System.out.println("Diminished paper: " + dimPaper);
 
 
 ///Task 2:
